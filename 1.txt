@@ -6,3 +6,9 @@
 <<<<<<< HEAD
 
 !!!週三請假!!!
+=======
+<<<<<<< HEAD
+
+!!!週三請假!!
+>>>>>>> refs/remotes/origin/master
+!
